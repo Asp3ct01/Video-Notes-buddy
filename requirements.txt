@@ -5,4 +5,5 @@ transformers>=4.30.0
 urllib3>=2.0.0
 numpy>=1.24.0
 tqdm>=4.65.0
+streamlit>=1.32.0
 tk>=0.1.0  # For systems that don't have tkinter pre-installed 
